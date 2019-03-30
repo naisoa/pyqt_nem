@@ -1,2 +1,2 @@
 # pyqt_nem
-nemをpython GUIで扱うためのソースコード郡です。
+nemをpython GUIで扱うためのソースコード群です。
